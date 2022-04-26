@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "reading",
+			"fps": 24,
+			"name": "JellyBean READING",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-39,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "brokeld",
+			"indices": [],
+			"name": "JellyBeanE BROKE"
+		},
+		{
+			"offsets": [
+				280,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hold",
+			"indices": [],
+			"name": "JellyBean WAIT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jellybeananims",
+	"position": [
+		50,
+		198
+	],
+	"healthicon": "jellybean",
+	"flip_x": true,
+	"healthbar_colors": [
+		221,
+		133,
+		234
+	],
+	"camera_position": [
+		-40,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
